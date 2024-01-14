@@ -10,8 +10,8 @@ This project is available as open source, permitting anyone to utilize the code 
 
 
 
-[3d scatter plot](https://luxury-lebkuchen-e0c43e.netlify.app/)
 
 
+[3d scatter plot](https://comfy-figolla-e35606.netlify.app/)
 
 [2d heatmap](https://phenomenal-khapse-9ef87f.netlify.app/)
