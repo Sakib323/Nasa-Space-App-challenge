@@ -8,3 +8,4 @@ This project is available as open source, permitting anyone to utilize the code 
 
 
 3d scatter plot >> https://65a3dff07f41e77c812d31a3--luxury-lebkuchen-e0c43e.netlify.app/
+2d heatmap >> https://phenomenal-khapse-9ef87f.netlify.app/
