@@ -9,7 +9,7 @@ This project is available as open source, permitting anyone to utilize the code 
 [![Look at my project here](https://img.youtube.com/vi/adgoOydQEhI/0.jpg)](https://www.youtube.com/watch?v=adgoOydQEhI)
 
 
-![Car Image](https://github.com/Sakib323/car_rental/blob/e0cacbd41adf464202901554f86404f67a976512/WhatsApp%20Image%202023-01-29%20at%204.59.06%20PM.jpeg)
+![Car Image](https://github.com/Sakib323/Nasa-Space-App-challenge/blob/main/multimedia%20files/download.png)
 
 
 [3d scatter plot](https://comfy-figolla-e35606.netlify.app/)
