@@ -11,6 +11,15 @@ This project is available as open source, permitting anyone to utilize the code 
 
 ![Car Image](https://github.com/Sakib323/Nasa-Space-App-challenge/blob/main/multimedia%20files/download.png)
 
+![Car Image](https://github.com/Sakib323/Nasa-Space-App-challenge/blob/main/multimedia%20files/heatmap.png)
+
+![Car Image](https://github.com/Sakib323/Nasa-Space-App-challenge/blob/main/multimedia%20files/Data%20Driven.png)
+
+![Car Image](https://github.com/Sakib323/Nasa-Space-App-challenge/blob/main/multimedia%20files/visual.png)
+
+![Car Image](https://github.com/Sakib323/Nasa-Space-App-challenge/blob/main/multimedia%20files/Screenshot%202024-01-13%20135859.png)
+
+
 
 [3d scatter plot](https://comfy-figolla-e35606.netlify.app/)
 
